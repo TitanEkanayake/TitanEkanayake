@@ -5,7 +5,7 @@ I'm Titan from Sri Lanka, and I'm a software engineer passionate about creating 
 Skills:  REACTJS / JS / HTML / CSS / SCALA / PYTHON / JAVA
 
 - 🔭 I’m currently working on  developing a website for a code challenge. 
-- 🌱 I’m currently learning About IT automation with python 
+- 🌱 I’m currently learning About IT automation with python and API development. 
 - 👯 I’m looking to collaborate on React projects and backend development projects using Scala and Python. 
 
 
