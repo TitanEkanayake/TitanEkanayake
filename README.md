@@ -5,9 +5,13 @@ I'm Titan from Sri Lanka, and I'm a software engineer passionate about creating 
 Skills:  REACTJS / JS / HTML / CSS / SCALA / PYTHON / JAVA
 
 - 🔭 I’m currently working on  developing a website for a code challenge. 
-- 🌱 I’m currently learning About IT automation with python 
+- 🌱 I’m currently learning About IT automation with python and API development 
 - 👯 I’m looking to collaborate on React projects and backend development projects using Scala and Python. 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TitanEkanayake)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/titan99/)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TitanEkanayake)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=TitanEkanayake)  
 
