@@ -1,5 +1,8 @@
-### Hi there 👋
+Hi there 👋
 
+I'm Titan from Sri Lanka, and I'm a software engineer passionate about creating technology to elevate people and build communities. Some technologies I find fulfilling to work with include ReactJS, Scala, Java, and Python. I enjoy both web development and backend development. I have experience in market manipulation algorithm development and automation script development.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TitanEkanayake)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **TitanEkanayake/TitanEkanayake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
